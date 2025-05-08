@@ -1,0 +1,75 @@
+
+
+[
+    {
+      "id": 1,
+      "title": "Rabindranath Tagore",
+      "image": "./assets/RavindranathTagore.jpg",
+      "mostliked": "1282",
+      "mostCommented": "967"
+    },
+    {
+        "id": 2,
+        "title": "Salman Rushdie",
+        "image" : "./assets/salmanRushdie.jpg",
+        "mostliked": "247",
+        "mostCommented": "198"
+      },
+      {
+        "id": 3,
+        "title": "Arundhati Roy",
+       "image" : "/assets/ArundhatiRoy.jpg",
+        "mostliked": "678",
+        "mostCommented": "413"
+      },
+      {
+        "id": 4,
+        "title": "Vikram Seth",
+        "image" : "/assets/VikramSeth.jpg",
+        "mostliked": "454",
+        "mostCommented": "312"
+      },
+      {
+        "id": 5,
+        "title": "Khushwant Singh",
+        "image" : "/assets/KhushwantSingh.jpg",
+        "mostliked": "989",
+        "mostCommented": "656"
+      },
+      {
+        "id": 6,
+        "title": "Mulk Raj Anand",
+        "image" : "/assets/MulkRajAnand.jpg",
+        "mostliked": "343",
+        "mostCommented": "132"
+      },
+      {
+        "id": 7,
+        "title": "Amitav Ghosh",
+        "image" : "/assets/AmitavGhosh.jpg",
+        "mostliked": "228",
+        "mostCommented": "115"
+      },
+      {
+        "id": 8,
+        "title": "Arvind Adiga",
+        "image" : "/assets/ArvindAdiga.jpg",
+        "mostliked": "949",
+        "mostCommented": "768"
+      },
+      {
+        "id": 9,
+        "title": "William Shakespear",
+        "image" : "/assets/WilliamShakespear.jpg",
+        "mostliked": "898",
+        "mostCommented": "583"
+      },
+      {
+        "id": 10,
+        "title": "Leo Tolstoy",
+        "image" : "/assets/LeoTolstoy.jpg",
+        "mostliked": "1294",
+        "mostCommented": "1086"
+      }
+    
+  ]
