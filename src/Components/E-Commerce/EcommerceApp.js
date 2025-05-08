@@ -1,15 +1,13 @@
 import React from "react"
 import HeaderComponent from "./HeaderComponent"
-import CardsData from './CardsData'
-import ProductChart from "./ProductChart"
+import ParentComponent from "./ParentComponent"
 
 const EcommerceApp = ({productsData}) => {
     return(
         <div>
-            <HeaderComponent productsData={productsData}/>
+            <HeaderComponent />
             <div className="completeApp">
-                <ProductChart productsData={productsData}/>
-                <CardsData productsData={productsData}/>
+                <ParentComponent productsData={productsData} />
             </div>
             <hr />
         </div>

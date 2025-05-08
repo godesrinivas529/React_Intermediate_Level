@@ -5,7 +5,7 @@ import ThingsToDo from "./Components/ThingsToDo";
 import EcommerceApp from "./Components/E-Commerce/EcommerceApp";
 import Program5SPA from "./Components/SPA_UserInfo/Program5SPA";
 import BlogApp from './Components/BlogApplication/BlogApp'
-
+import TimerMain from './Components/EventCountdownTimer/TimerMain'
 
 
 import cropTopDress from './assets/cropTopDress.jpg'
@@ -154,8 +154,11 @@ function App() {
       <ThingsToDo />
       <LyricsFinder />
       <EcommerceApp productsData={productsData}/>
-      <Program5SPA />
-      <BlogApp />
+      <Program5SPA /> 
+      <BlogApp /> 
+      <TimerMain />
+
+
     </div>
   );
 }
